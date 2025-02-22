@@ -20,6 +20,7 @@ Silme	işlemleri	daha	kolaydır.
 Daha	fazla	bellek	kullanır.
 # Kullanım
 Kodları derleyin ve çalıştırın.
+
 Not: Syslog dosyasına erişim için root yetkisi gerekebilir.
 # Çalışma Mantığı
 Syslog dosyası (/var/log/syslog) satır satır okunur.
